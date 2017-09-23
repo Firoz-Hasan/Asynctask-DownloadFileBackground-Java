@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     public static final int progress_bar_type = 0;
 
     // File url to download
-    private static String file_url = "http://whatson.ae/dubai/wp-content/uploads/2016/08/FS__8860.jpg";
+    private static String file_url = "http://s1.dmcdn.net/jP_6d.jpg";
 
     private static final int REQUEST_EXTERNAL_STORAGE = 1;
     private static String[] PERMISSIONS_STORAGE = {
